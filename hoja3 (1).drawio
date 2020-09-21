@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T11:10:29.944Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9mrvz2QMmEXjwQ4rO1YG" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T11:10:55.499Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="rHsRcW4CuzOw32ve0fZO" version="13.6.3" type="github">
   <diagram id="hzubIGdESL6_hrJmZI1E" name="Page-1">
     <mxGraphModel dx="488" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,7 +489,7 @@
         <mxCell id="xZ7ZK9WfWNy4xOt-RPBV-152" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="xZ7ZK9WfWNy4xOt-RPBV-151">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xZ7ZK9WfWNy4xOt-RPBV-153" value="Encargado" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="xZ7ZK9WfWNy4xOt-RPBV-151">
+        <mxCell id="xZ7ZK9WfWNy4xOt-RPBV-153" value="(idTrabajador)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="xZ7ZK9WfWNy4xOt-RPBV-151">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xZ7ZK9WfWNy4xOt-RPBV-154" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xZ7ZK9WfWNy4xOt-RPBV-144">
